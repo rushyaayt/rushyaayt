@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on several tech projects.<br>i'm looking for collaborate on this platform.<br>i'm looking for help with teammates who can even give more ideas to me.<br>i'm currently learning in diploma in computer science.<br>i'm Rushikesh Bhade. 18 year old guy who is currently makeing different projects.<br>fun fact that i am a gamer and an ethical hacker.
+i'm currently working on several tech projects.<br>i'm looking for the person who can collaborate on this platform.<br>i'm looking for help with teammates who can even give more ideas to me.<br>i'm currently learning in diploma in computer science.<br>i'm Rushikesh Bhade. 18 year old guy who is currently makeing different projects.<br>fun fact that i am a gamer and an ethical hacker.
 
 
 ## 🌐 Socials:
