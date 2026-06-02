@@ -1,6 +1,11 @@
 # 💫 About Me:
-i'm currently working on several tech projects.<br>i'm looking for the person who can collaborate on this platform.<br>i'm looking for help with teammates who can even give more ideas to me.<br>i'm currently learning in diploma in computer science.<br>i'm Rushikesh Bhade. 18 year old guy who is currently makeing different projects.<br>fun fact that i am a gamer and an ethical hacker.
+Hello! My name is Rushikesh Bhade, an 18-year-old tech enthusiast currently pursuing a Diploma in Computer Science.
 
+I'm actively working on several tech projects and looking for collaborators who can bring fresh ideas, share knowledge, and grow together with me.
+
+Beyond academics, I'm also a gamer and an ethical hacker blending creativity with problem-solving to explore both the fun and serious sides of technology.
+
+My goal is to connect with like-minded teammates who are passionate about innovation, coding, and digital exploration. Together, we can build projects that stand out and make an impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@well.rushikesh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rushikesh Bhade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushyaa.yt@gmail.com) 
