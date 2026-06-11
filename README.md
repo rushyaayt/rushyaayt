@@ -31,3 +31,4 @@ My goal is to connect with like-minded teammates who are passionate about innova
 [![](https://komarev.com/ghpvc/?username=rushyaayt&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="747" height="547" alt="Screenshot 2026-06-05 095056" src="https://github.com/user-attachments/assets/013d9f77-a334-42b0-a27b-0dbd734e0049" />
