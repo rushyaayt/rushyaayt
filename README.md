@@ -23,3 +23,27 @@ My goal is to connect with like-minded teammates who are passionate about innova
 
 
 ###### Thank you https://rahuldkjain.github.io/github-profile-readme-generator/ for giving me this idea to build my profile like this one...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
