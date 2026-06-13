@@ -1,4 +1,4 @@
-# Hi 👋, I'm rushyaayt
+# Hi 👋, I'm Rushikesh Bhade AKA Aayush
 
 ### Student of Diploma in Computer Science
 Hello! My name is Rushikesh Bhade, an 18-year-old tech enthusiast currently pursuing a Diploma in Computer Science.
